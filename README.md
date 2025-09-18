@@ -14,7 +14,7 @@ A simple Python utility to **create a password-protected PDF** file.
 Install the dependency:
 pip install PyPDF2
 
-Usage
+Usage:
 Run from the command line:
 python pdf_protector.py <input_pdf> <output_pdf> <password>
 

@@ -31,5 +31,3 @@ Notes
 Ensure the input PDF is not already encrypted.
 Keep your password safe—losing it means you may not be able to open the protected file yourself.
 
-csharp
-Copy code
